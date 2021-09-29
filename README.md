@@ -12,12 +12,13 @@
   <img align="center" alt="Rich-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rich-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rich-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rich-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif">
+  <img align="right" alt="Rich-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/9a/66/1c/9a661cfa39404156def441b87bd819d0.gif">
 </div>
   
   ##
  
 <div> 
+  <a href="https://steamcommunity.com/profiles/76561198096660274/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/talvezrich" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/richardmath_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:richard.tech99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
