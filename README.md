@@ -1,10 +1,10 @@
 
 ## Richard Matheus - Full Stack Developer
 
-<p>- I'm currently working on Web Development Projects, Software and Molibe using PHP (Lavarel) and Javascript (Node, React-native and Jquery). <br>
-- Improving knowledge in new technologies such as React and TypeScript;<br>
-- Studying Computer Science (Bachelor's Degree) at the USCS Campus Conceição, São Caetano do Sul. (Dec/2021); <br>
-Curiosity: Practical bodybuilding 6 times a week, in love with CSGO and fanatic for Corinthians</p>
+<p>- Currently I am working on Web, Software and Molibe Development Projects using PHP(Lavarel) and Javascript(Node, React-native and Jquery) <br>
+- Improving knowledge in new technologies like React and TypeScript;<br>
+- Studying Computer Science (BS) at USCS Campus Conceição, São Caetano do Sul. (Dec/2021);  <br>
+Curiosity: Weight training 6x a week, passionate about CSGO and fanatical about Corinthians.</p>
 
 <div align="center">
   <a href="https://github.com/richardmath99">
