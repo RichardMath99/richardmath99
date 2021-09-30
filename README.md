@@ -2,9 +2,8 @@
 ## Richard Matheus - Full Stack Developer
 
 <p>- Currently I am working on Web, Software and Molibe Development Projects using PHP(Lavarel) and Javascript(Node, React-native and Jquery) <br>
-- Improving knowledge in new technologies like React and TypeScript;<br>
 - Studying Computer Science (BS) at USCS Campus Conceição, São Caetano do Sul. (Dec/2021);  <br>
-Curiosity: Weight training 6x a week, passionate about CSGO and fanatical about Corinthians.</p>
+Curiosity: I practice weight training 6x a week, passionate about CSGO and fanatical about Corinthians.</p>
 
 <div align="center">
   <a href="https://github.com/richardmath99">
