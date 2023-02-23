@@ -1,8 +1,7 @@
 
 ## Richard Matheus - Full Stack Developer
 
-<p>- Currently I am working on Web, Software and Molibe Development Projects using PHP(Lavarel) and Javascript(Node, React-native and Jquery) <br>
-Curiosity: I practice weight training 6x a week, passionate about CSGO and fanatical about Corinthians.</p>
+<p>- Currently I am working on Web, Software and Molibe Development Projects using PHP(Lavarel) and Javascript(Node, React-native and Jquery)</p>
 
 <div align="center">
   <a href="https://github.com/richardmath99">
