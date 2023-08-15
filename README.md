@@ -18,14 +18,3 @@
   <img align="center" alt="Rich-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="right" alt="Rich-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/9a/66/1c/9a661cfa39404156def441b87bd819d0.gif">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://steamcommunity.com/profiles/76561199220555527/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href = "mailto:richard.tech99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/richard-matheus-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/richardmath99/richardmath99/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
