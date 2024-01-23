@@ -1,7 +1,7 @@
 
 ## Richard Matheus - Full Stack Developer
 
-<p>- Currently, I am working on Web, Software, and Mobile Development Projects using PHP (Laravel) and JavaScript (Node, React Native, and jQuery).</p>
+<p>- Currently, I am working on Web, Software, and Mobile Development Projects using PHP (Laravel) and JavaScript (Node, React, React Native).</p>
 
 <div align="center">
   <a href="https://github.com/richardmath99">
