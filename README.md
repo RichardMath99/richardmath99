@@ -1,7 +1,7 @@
 
 ## Richard Matheus - Full Stack Developer
 
-<p>- Currently, I am working on Web, Software, and Mobile Development Projects using PHP (Laravel) and JavaScript (Node, React and React Native).</p>
+<p>Software Developer at Redarbor, building scalable Web, Mobile, and Software solutions using React, React Native, Node.js, TypeScript, .NET, AWS, and Azure.</p>
 
 <div align="center">
   <a href="https://github.com/richardmath99">
@@ -14,4 +14,6 @@
   <img align="center" alt="Rich-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rich-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rich-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rich-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rich-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
 </div>
