@@ -1,8 +1,6 @@
 
 ## Richard Matheus - Full Stack Developer
 
-<p>Software Developer at Redarbor, building scalable Web, Mobile, and Software solutions using React, React Native, Node.js, TypeScript, .NET, AWS, and Azure.</p>
-
 <div align="center">
   <a href="https://github.com/richardmath99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardmath99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
